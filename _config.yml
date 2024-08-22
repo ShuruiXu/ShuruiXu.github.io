@@ -219,7 +219,19 @@ defaults:
       layout: single
       author_profile: true
 
-
+collections:
+  teaching:
+    output: False
+    #permalink: /:collection/:path/
+  publications:
+    output: False
+    #permalink: /:collection/:path/
+  portfolio:
+    output: False
+    #permalink: /:collection/:path/
+  talks:
+    output: False
+    #permalink: /:collection/:path/
 
 
 # Sass/SCSS
