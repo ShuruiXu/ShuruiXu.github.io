@@ -27,10 +27,19 @@ Honors & awards🏆
 ======
 <span style="font-size: 95%;">**Hackthon Competition**:</span>
 
-- <span style="font-size: 90%;">2021 Baidu PaddlePaddle HACKATHON -*Open Source Contribution Award*</span>
-- <span style="font-size: 90%;">SegmentFault&2023 Google Developer Conference Hackathon -*Outstanding Team Award*</span>
-- <span style="font-size: 90%;">2023 Yunxi Conference AliCloud Create@AI Creator Hackathon -*The Champion of the "Marketing and Sales Track" 🏆*</span>
-- <span style="font-size: 90%;">2023 Baidu Wenxin AGI Hackathon - *Champion🏆*</span>
+- <span style="font-size: 90%;">2021 Baidu PaddlePaddle HACKATHON</span>
+
+  <span style="font-size: 90%;">*Open Source Contribution Award*</span>
+- <span style="font-size: 90%;">SegmentFault&2023 Google Developer Conference Hackathon</span>
+
+  <span style="font-size: 90%;">*Outstanding Team Award*</span>
+- <span style="font-size: 90%;">2023 Yunxi Conference AliCloud Create@AI Creator Hackathon</span>
+
+  <span style="font-size: 90%;">*The Champion of the "Marketing and Sales Track" 🏆*</span>
+  
+- <span style="font-size: 90%;">2023 Baidu Wenxin AGI Hackathon</span>
+
+  <span style="font-size: 90%;">*Champion🏆*</span>
 
 <span style="font-size: 95%;">**Certifications**:</span>
 
