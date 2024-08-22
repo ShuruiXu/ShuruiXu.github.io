@@ -27,20 +27,20 @@ Honors & awards🏆
 ======
 <span style="font-size: 85%;margin-bottom: 0.5em;">**Hackthon Competition**:</span>
 
-<span style="font-size: 85%;margin-bottom: 0.5em;">- 2021 Baidu PaddlePaddle HACKATHON*Open Source Contribution Award*</span>
-<span style="font-size: 85%;margin-bottom: 0.5em;">- SegmentFault&2023 Google Developer Conference Hackathon*Outstanding Team Award*</span>
-<span style="font-size: 85%;margin-bottom: 0.5em;">- 2023 Yunxi Conference AliCloud Create@AI Creator Hackathon*The Champion of the "Marketing and Sales Track" 🏆*</span>
-<span style="font-size: 85%;margin-bottom: 0.5em;">- 2023 Baidu Wenxin AGI Hackathon*Champion🏆*</span>
+- <span style="font-size: 85%;margin-bottom: 0.5em;">2021 Baidu PaddlePaddle HACKATHON*Open Source Contribution Award*</span>
+- <span style="font-size: 85%;margin-bottom: 0.5em;">SegmentFault&2023 Google Developer Conference Hackathon*Outstanding Team Award*</span>
+- <span style="font-size: 85%;margin-bottom: 0.5em;">2023 Yunxi Conference AliCloud Create@AI Creator Hackathon*The Champion of the "Marketing and Sales Track" 🏆*</span>
+- <span style="font-size: 85%;margin-bottom: 0.5em;">2023 Baidu Wenxin AGI Hackathon*Champion🏆*</span>
 
 <span style="font-size: 85%;">**Certifications**:</span>
 
 <span style="font-size: 80%;">*1.Baidu PaddlePaddle Developers Experts*</span>
 
-<span style="font-size: 80%;">*2.Kaggle Competitions Expert*</span>
-<span style="font-size: 75%;">- G-Research Crypto Forecasting(85/1946)🥈</span>
-<span style="font-size: 75%;">- PetFinder.my - Pawpularity Contest(110/3537)🥈</span>
-<span style="font-size: 75%;">- Mechanisms of Action (MoA)Prediction(131/4373)🥈</span>
-<span style="font-size: 75%;">- American Express Default Prediction(189/4874)🥈</span>
-<span style="font-size: 75%;">- HuBMAP HPA-Hacking the Human Body(103/1079)🥉</span>
-<span style="font-size: 75%;">- Foursquare Location Matching(103/1079)🥉</span>
+*2.Kaggle Competitions Expert*</span>
+- <span style="font-size: 75%;">G-Research Crypto Forecasting(85/1946)🥈</span>
+- <span style="font-size: 75%;">PetFinder.my - Pawpularity Contest(110/3537)🥈</span>
+- <span style="font-size: 75%;">Mechanisms of Action (MoA)Prediction(131/4373)🥈</span>
+- <span style="font-size: 75%;">American Express Default Prediction(189/4874)🥈</span>
+- <span style="font-size: 75%;">HuBMAP HPA-Hacking the Human Body(103/1079)🥉</span>
+- <span style="font-size: 75%;">Foursquare Location Matching(103/1079)🥉</span>
 
