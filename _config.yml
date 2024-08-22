@@ -12,9 +12,6 @@ title                    : "Shurui Xu / 徐殊睿"
 title_separator          : "-"
 name                     : &name "Shurui Xu"
 description              : &description "PhD student, EEECS,QUB "
-url                      : https://shuruixu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +25,7 @@ author:
   location         : "Shanghai,China"
   employer         : "Queen's University Belfast"
   uri              : # URL
-  email            : "shuruixu@gmail.com" 
+  email            : "shuruixu1022@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
