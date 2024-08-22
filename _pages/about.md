@@ -34,9 +34,9 @@ Honors & awards🏆
 
 <span style="font-size: 85%;">**Certifications**:</span>
 
-<span style="font-size: 80%;">*1.Baidu PaddlePaddle Developers Experts*</span>
+<span style="font-size: 80%;">*1.Baidu PaddlePaddle Developers Experts* </span>
 
-*2.Kaggle Competitions Expert*</span>
+<span style="font-size: 80%;">*2.Kaggle Competitions Expert* </span>
 - <span style="font-size: 75%;">G-Research Crypto Forecasting(85/1946)🥈</span>
 - <span style="font-size: 75%;">PetFinder.my - Pawpularity Contest(110/3537)🥈</span>
 - <span style="font-size: 75%;">Mechanisms of Action (MoA)Prediction(131/4373)🥈</span>
