@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Shurui Xu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently pursuing a Ph.D. in Electronic and Electrical Engineering at Queen's University Belfast, under the supervision of Professor Qiuwei Wu, with co-supervision from Dr. Shuyan Li. My doctoral research is focused on AI-enabled optimal operation of net-zero power and energy systems, aiming to develop sustainable and efficient solutions for future energy infrastructures.
+
+Prior to my Ph.D. studies, I earned a Bachelor's degree in Electronic Science & Technology from CUMT. I then served as the Chief Technology Officer at Beijing Meishicha Technology Co., Ltd., where I led the development of cutting-edge AI-driven products. My work spans across various domains, including healthcare, legal technology, and real-time recognition systems, demonstrating a consistent track record of innovation and technical excellence. Additionally, I have achieved significant recognition in the field, winning several hackathons and Kaggle competitions.
+
+My research interests include the application of AI and machine learning in energy systems, advanced algorithm development, and real-time data processing. I am passionate about contributing to the AI community and exploring new frontiers in technology.
 
 A data-driven personal website
 ======
