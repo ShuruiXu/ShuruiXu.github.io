@@ -32,4 +32,13 @@ Honors & awards🏆
 - 2023 Baidu Wenxin AGI Hackathon(Champion🏆)
 
 **Certifications**:
-Kaggle Competitions Expert
+
+*1.Baidu PaddlePaddle Developers Experts*
+
+*2.Kaggle Competitions Expert*
+- G-Research Crypto Forecasting(85/1946)🥈
+- PetFinder.my - Pawpularity Contest(110/3537)🥈
+- Mechanisms of Action (MoA)Prediction(131/4373)🥈
+- American Express Default Prediction(189/4874)🥈
+- HuBMAP HPA-Hacking the Human Body(103/1079)🥉
+- Foursquare Location Matching(103/1079)🥉
