@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Ph.D. in Electronic and Electrical Engineering at Queen's University Belfast, under the supervision of Professor Qiuwei Wu[(https://www.tbsi.edu.cn/english/2022/0224/c4998a55905/page.htm)], with co-supervision from Dr. [Shuyan Li](https://shuyan98.github.io/). My doctoral research is focused on AI-enabled optimal operation of net-zero power and energy systems, aiming to develop sustainable and efficient solutions for future energy infrastructures.
+I am currently pursuing a Ph.D. in Electronic and Electrical Engineering at Queen's University Belfast, under the supervision of Professor [Qiuwei Wu](https://www.tbsi.edu.cn/english/2022/0224/c4998a55905/page.htm), with co-supervision from Dr. [Shuyan Li](https://shuyan98.github.io/). My doctoral research is focused on AI-enabled optimal operation of net-zero power and energy systems, aiming to develop sustainable and efficient solutions for future energy infrastructures.
 
 Prior to my Ph.D. studies, I earned a Bachelor's degree in Electronic Science & Technology from CUMT. I then served as the Chief Technology Officer at Beijing Meishicha Technology Co., Ltd., where I led the development of cutting-edge AI-driven products. My work spans across various domains, including healthcare, legal technology, and real-time recognition systems, demonstrating a consistent track record of innovation and technical excellence. Additionally, I have achieved significant recognition in the field, winning several hackathons and Kaggle competitions.
 
 My research interests include the application of AI and machine learning in energy systems, advanced algorithm development, and real-time data processing. I am passionate about contributing to the AI community and exploring new frontiers in technology.
 
-A data-driven personal website
+News🌟
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
