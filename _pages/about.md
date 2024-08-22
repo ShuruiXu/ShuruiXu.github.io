@@ -13,8 +13,7 @@ Prior to my Ph.D. studies, I earned a Bachelor's degree in Electronic Science & 
 
 My research interests include the application of AI and machine learning in energy systems, advanced algorithm development, and real-time data processing. I am passionate about contributing to the AI community and exploring new frontiers in technology.
 
+======
 News🌟
 ======
 最近一直都在摆烂，我已经消失了，无事发生！！🤐
-
-
