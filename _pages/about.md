@@ -27,12 +27,16 @@ Honors & awards🏆
 ======
 **Hackthon Competition**:
 - 2021 Baidu PaddlePaddle HACKATHON
+
   Open Source Contribution Award
 - SegmentFault&2023 Google Developer Conference Hackathon
+
   Outstanding Team Award
 - 2023 Yunxi Conference AliCloud Create@AI Creator Hackathon
+
   The Champion of the "Marketing and Sales Track" 🏆
 - 2023 Baidu Wenxin AGI Hackathon
+
   Champion🏆
 
 **Certifications**:
